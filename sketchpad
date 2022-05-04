@@ -6,4 +6,5 @@ push projects to GitHub
 5. > git branch -M main
 6. > git push origin HEAD
 
-
+navigating WSL
+/mnt/c/ is the same as C:/
