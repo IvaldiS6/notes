@@ -1,0 +1,9 @@
+push projects to GitHub
+1. > git config --global user.email <email address>
+2. > git config --global user.name <your name or pseudonym>
+3. > git init
+4. > git remote add origin <URL to repository>
+5. > git branch -M main
+6. > git push origin HEAD
+
+
