@@ -8,3 +8,6 @@ push projects to GitHub
 
 navigating WSL
 /mnt/c/ is the same as C:/
+
+delete folders containg things
+rm -r <folder> (-v verbose)
