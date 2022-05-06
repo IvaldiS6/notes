@@ -11,3 +11,6 @@ navigating WSL
 
 delete folders containg things
 rm -r <folder> (-v verbose)
+
+Update information list location
+/Etc/apt/sources.list.d
