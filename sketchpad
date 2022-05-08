@@ -14,3 +14,6 @@ rm -r <folder> (-v verbose)
 
 Update information list location
 /Etc/apt/sources.list.d
+
+cloud start here:
+cargo install sugar-cli --locked
