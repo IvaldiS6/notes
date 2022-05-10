@@ -17,3 +17,6 @@ Update information list location
 
 cloud start here:
 cargo install sugar-cli --locked
+
+solana
+solana config get https://api.<clster>.solana.com
