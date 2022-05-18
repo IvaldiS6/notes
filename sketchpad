@@ -23,3 +23,5 @@ solana config get https://api.<clster>.solana.com
 
 CRON
 add path to crontab
+install postfix
+  
