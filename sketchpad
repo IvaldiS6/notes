@@ -19,7 +19,8 @@ cloud start here:
 cargo install sugar-cli --locked
 
 solana
-solana config get https://api.<clster>.solana.com
+solana config get 
+solana config set --url https://api.<clster>.solana.com
 
 CRON
 add path to crontab
