@@ -26,3 +26,15 @@ CRON
 add path to crontab
 install postfix
   
+HOLDER SCRAPE
+Step 1: Magic Eden's Hash List Finder for NFTs & SPL tokens:
+https://magiceden.io/mintlist-tool
+
+Step 2: Take snapshot of holders from Hash List: 
+https://pentacle.tools/holder-snapshot
+
+Step 3: Convert JSON to CSV
+https://www.convertcsv.com/json-to-csv.htm
+
+
+Turn CSV into .txt file with all addresses copy & pasted to match the amount of nfts they hold
